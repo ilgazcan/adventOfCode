@@ -1,4 +1,4 @@
-const { massList } = require("./input.json");
+const { massList } = require("../input.json");
 
 let total = 0;
 

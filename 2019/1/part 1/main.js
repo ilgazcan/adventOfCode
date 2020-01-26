@@ -1,4 +1,4 @@
-const { massList } = require("./input.json");
+const { massList } = require("../input.json");
 
 const fuelCalculator = mass => Math.floor(mass / 3) - 2;
 
